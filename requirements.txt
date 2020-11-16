@@ -9,3 +9,4 @@ black
 yapf
 python-gitlab
 twine
+git+git://github.com/jcbanos/packypack.git
