@@ -48,6 +48,9 @@ def clean_data(data):
     return data
 
 
+def try_me():
+    print('being inventive')
+
 if __name__ == '__main__':
     # For introspections purpose to quickly get this functions on ipython
     import my_test_package
